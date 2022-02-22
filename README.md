@@ -1,13 +1,39 @@
-# 👋 Hi, I’m Thiruisa
+<div>
+  <h2 align=center> Hey 👋 <br> I'm Thiruisa & I am an aspiring Web Developer</h2>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/thiruisa-puvanenthirarasa/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Computer Science Student from University of East Anglia.<br><br>
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently working with</b>: React, NodeJS, WordPress</li>
+            <li>🚀 <b>I’m currently learning</b>: </li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="">LINK TO MY CV</a>.</li>
+            <li>😄 <b>Fun fact</b>: I live Codeing(💻), Photography(📷) and watch movies & drama(🎞).</li>
+        </ul>
+    </div>
+    <div>
+      <h1 align="center">TECHNOLOGY</h1>
 
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+</p>
+    </div>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+      <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiruisa&theme=gotham&show_icons=true" alt="thiruisa" />
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=thiruisa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="thiruisa" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruisa&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="thiruisa" /></p>
 
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Thiruisa/Thiruisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=thiruisa&theme=react-dark&hide_border=true&area=true)        
+    </div>
+</div>
