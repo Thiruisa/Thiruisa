@@ -14,7 +14,7 @@
             <li>🌱 <b>I’m currently working with</b>: React, NodeJS, WordPress</li>
             <li>🚀 <b>I’m currently learning</b>: </li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="">LINK TO MY CV</a>.</li>
-            <li>😄 <b>Fun fact</b>: I live Codeing(💻), Photography(📷) and watch movies & drama(🎞).</li>
+            <li>😄 <b>Fun fact</b>: I like Coding(💻), Photography(📷) and watching movies & drama(🎞).</li>
         </ul>
     </div>
     <div>
