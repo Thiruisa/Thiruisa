@@ -7,7 +7,7 @@
         <br>
         <p>
             <strong>
-                Computer Science Student from University of East Anglia.<br><br>
+                Computer Science Graduate from University of East Anglia.<br><br>
             </strong>
         </p>
         <ul>
