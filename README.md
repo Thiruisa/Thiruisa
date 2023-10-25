@@ -5,11 +5,6 @@
     </div>
     <div align=left>
         <br>
-        <p>
-            <strong>
-                Computer Science Graduate from the University of East Anglia.<br><br>
-            </strong>
-        </p>
         <ul>
             <li>🌱 <b>I’m currently working with</b>: React, NodeJS, WordPress</li>
             <li>🚀 <b>I’m currently learning</b>: Figma</li>
@@ -20,7 +15,8 @@
     <div>
       <h1 align="center">TECHNOLOGY</h1>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
