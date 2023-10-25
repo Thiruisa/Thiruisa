@@ -1,7 +1,7 @@
 <div>
   <p align="center"><a href="https://github.com/Thiruisa/Thiruisa/blob/main/github.gif" target="_blank"> <img src="https://github.com/Thiruisa/Thiruisa/blob/main/github.gif"alt="banner" width="800" /> </a> 
     <div align=center>
-        <a href="https://www.linkedin.com/in/thiruisa-puvanenthirarasa/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+      <a href="https://www.linkedin.com/in/thiruisa-puvanenthirarasa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiruisa" height="30" width="40" /></a>
     </div>
     <div align=left>
         <br>
