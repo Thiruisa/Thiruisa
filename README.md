@@ -1,5 +1,5 @@
 <div>
-  <h2 align=center> Hey 👋 <br> I'm Thiruisa & I am an aspiring Web Developer</h2>
+  <p align="center"><a href="https://github.com/Thiruisa/Thiruisa/blob/main/github.gif" target="_blank"> <img src="https://github.com/Thiruisa/Thiruisa/blob/main/github.gif"alt="banner" width="800" /> </a> 
     <div align=center>
         <a href="https://www.linkedin.com/in/thiruisa-puvanenthirarasa/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
