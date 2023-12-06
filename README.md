@@ -28,7 +28,6 @@
         <h1>Contribution Activity</h1>
       <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiruisa&theme=gotham&show_icons=true" alt="thiruisa" />
         <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=thiruisa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="thiruisa" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruisa&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="thiruisa" /></p>
+<!--         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruisa&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="thiruisa" /></p> -->
 
-    </div>
 </div>
