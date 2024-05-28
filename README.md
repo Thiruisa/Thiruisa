@@ -31,12 +31,37 @@
 <br>
 
 ## Web Development Projects 
+<br>
+
+### ☀️ Frontend Mentor - Sunnyside agency landing page <a><img align="right" width="450" height="350" src="https://github.com/Thiruisa/Thiruisa/blob/main/Sunnyside.png"></a>
+<hr style="border:2px solid black">
+
+<p> Frontend Mentor coding challenge focuses mostly on HTML & CSS with a bit of JS for the mobile navigation toggle.  </p>
+
+[Click to read more ](https://github.com/Thiruisa/Sunnyside-Agency-Website)
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 
 <br>
 
 ## Experience
+
+### Respect Yourself 
+##### WordPress Volunteer
+
+- Tasked with the responsibility of revamping an existing website. This involved making modifications to the website's theme as per the requirements to ensure that it excluded the desired aura and aesthetic appeal.
+
+- The website needed to be modernised by incorporating the latest features and functionalities, thereby making it more responsive to the needs and expectations of the target audience.
+
+- Developed and designed a responsive site that was optimised for a range of devices, including mobile devices, tablets, and desktop computers, in line with best practices and industry standards.
 
 <br>
 
