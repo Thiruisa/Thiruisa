@@ -9,7 +9,7 @@
         <ul>
             <li>🌱 <b>I’m currently working with</b>: React, NodeJS, WordPress, Figma</li>
             <li>🚀 <b>I’m currently learning</b>: </li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://github.com/Thiruisa/Thiruisa/blob/main/Thiruisa_Puvanenthirarasa_CV.pdf">LINK TO MY CV</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://github.com/Thiruisa/Thiruisa/blob/main/ThiruisaPuvanenthirarasa_CV.pdf">LINK TO MY CV</a>.</li>
             <li>😄 <b>Fun fact</b>: I like Coding(💻), Photography(📷), watching movies & drama(🎞) and gardening(🌿🌱🏵️) .</li>
         </ul>
     </div>
