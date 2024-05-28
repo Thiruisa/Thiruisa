@@ -14,6 +14,8 @@
         </ul>
     </div>
 
+<p> I am a recent Computer Science graduate with hands-on experience in UI/UX design and web development. I have worked on various projects, including revamping a website for Respect Yourself and developing applications using ReactJS and Figma. Currently, I am completing a UI/UX case study project for a plant care app, conducting user research, designing high-fidelity prototypes, and improving the user experience for plant enthusiasts. Skilled in HTML, CSS, JavaScript, and other web technologies, I excel in agile environments and am passionate about creating user-centric digital solutions. </p>
+
 <br>
 
 ## 📃 Recent UI/UX Case Study 
