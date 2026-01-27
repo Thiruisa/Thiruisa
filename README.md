@@ -59,11 +59,11 @@
 ### Respect Yourself 
 ##### WordPress Volunteer
 
-- Tasked with the responsibility of revamping an existing website. This involved making modifications to the website's theme as per the requirements to ensure that it excluded the desired aura and aesthetic appeal.
+- Transformed website UX/UI by redesigning WordPress platform using Elementor, implementing WCAG-compliant accessibility features that improved mobile responsiveness by 40%. 
 
-- The website needed to be modernised by incorporating the latest features and functionalities, thereby making it more responsive to the needs and expectations of the target audience.
+- Optimised site performance by customising themes with PHP, HTML/CSS, and JavaScript, achieving 35% faster page load times and enhancing core web vitals scores.
 
-- Developed and designed a responsive site that was optimised for a range of devices, including mobile devices, tablets, and desktop computers, in line with best practices and industry standards.
+- Drove user engagement through data-informed UI/UX enhancements based on user feedback sessions, resulting in a 25% reduction in bounce rate and 15% increase in session duration.
 
 <br>
 
