@@ -12,7 +12,7 @@
         <br>
         <ul>
             <li>🌱 <b>I’m currently working with</b>: React, NodeJS, WordPress, Figma</li>
-            <li>🚀 <b>I’m currently learning</b>: </li>
+            <li>🚀 <b>I’m currently learning</b>: GO </li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://github.com/Thiruisa/Thiruisa/blob/main/ThiruisaPuvanenthirarasa_CV.pdf">LINK TO MY CV</a>.</li>
             <li>😄 <b>Fun fact</b>: I like Coding(💻), Photography(📷), watching movies & drama(🎞) and gardening(🌿🌱🏵️) .</li>
         </ul>
@@ -36,11 +36,13 @@
 
 <br>
 
-## 🌸 UI/UX Case Study 
+## UI/UX Case Study 
+
+### 🌸 Durgalia Plant Care App
 
 The plant care application is a specialised platform for enthusiasts of exotic plant species, offering personalised care advice based on uploaded photos. It features robust community engagement tools, advanced growth tracking, real-time alerts, and a marketplace section that recommends plants, compost, and other essentials.
 
-<a><img width="450" height="350" src="https://github.com/Thiruisa/Thiruisa/blob/main/Durgalia.png"></a>
+<a><img width="450" height="350" src="https://github.com/Thiruisa/Thiruisa/blob/main/Durgalia.png" alt="Durgalia app preview" ></a>
 
 > This case study involved conducting user research, designing high-fidelity prototypes, and improving the overall user experience for plant enthusiasts.
 
@@ -48,7 +50,7 @@ The plant care application is a specialised platform for enthusiasts of exotic p
 
 <br>
 
-## Web Development Projects 
+## 💻 Web Development Projects 
 
 ### 💍 The Coopers' Wedding Website
 ##### Go Developer
@@ -62,7 +64,7 @@ A full-stack event platform architected and deployed using **Go** for the backen
 
 🔗 [Live Website: wedding.thecoopers.vip](https://wedding.thecoopers.vip/)
 
-## Experience
+## 💼 Experience
 
 ### 📚 Obeng Tech - ENAS Hybrid School
 ##### ReactJS Developer & UI Designer (Intern)
