@@ -36,9 +36,11 @@
 
 <br>
 
-## 🌸 Recent UI/UX Case Study 
+## 🌸 UI/UX Case Study 
 
 The plant care application is a specialised platform for enthusiasts of exotic plant species, offering personalised care advice based on uploaded photos. It features robust community engagement tools, advanced growth tracking, real-time alerts, and a marketplace section that recommends plants, compost, and other essentials.
+
+<a><img width="450" height="350" src="https://github.com/Thiruisa/Thiruisa/blob/main/Durgalia.png"></a>
 
 > This case study involved conducting user research, designing high-fidelity prototypes, and improving the overall user experience for plant enthusiasts.
 
