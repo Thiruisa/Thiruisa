@@ -75,10 +75,24 @@ A full-stack event platform architected and deployed using **Go** for the backen
 
 <br>
 
-<br>
+## 📫 Let's Connect
 
+Feel free to reach out—I'm always open to collaboration and new opportunities!
 
-
-
-
+<p>
+  <a href="https://github.com/Thiruisa">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <!-- Add your LinkedIn, Twitter, or other social links here -->
 </p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! 😊</i>
+</p>
+
+
+
+
+
